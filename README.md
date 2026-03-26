@@ -83,20 +83,12 @@ Use Live Server in VS Code
 
 ---
 
-## Contributing
-
-Contributions are welcome. Fork the repository and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Author
 
-Your Name
-GitHub: https://github.com/your-username
+Hari Prasanna
+B.Tech Robotics Engineering
+
+---
+
+
 LinkedIn: https://linkedin.com/in/your-profile
