@@ -89,6 +89,3 @@ Hari Prasanna
 B.Tech Robotics Engineering
 
 ---
-
-
-LinkedIn: https://linkedin.com/in/your-profile
